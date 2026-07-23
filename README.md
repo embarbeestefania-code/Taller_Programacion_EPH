@@ -1,2 +1,8 @@
-# TP1_Programacion_EPH
-Trabajo práctico 1 - Taller de Programación - EPH 2024T4 y 2025T4
+# Taller de Programación - EPH
+
+Repositorio correspondiente a los trabajos prácticos del Taller de Programación.
+
+## Contenido
+
+- **TP1:** limpieza y análisis descriptivo de la Encuesta Permanente de Hogares.
+- **TP2:** métodos no supervisados aplicados a asalariados de la EPH.
